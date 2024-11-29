@@ -8,7 +8,7 @@ A unique identifier (UID) for an online course is a distinct code assigned to ea
 ### roles
 UID的格式为 xxx-xxxx-xxxx-xxxx-xxx 
 
-包含了五个部分：国家、学校、年份、专业、课程。以下是为每个部分分配代码的建议：
+包含了五个部分：国家、学校、年份、专业、课程。
 
 结构说明
 
