@@ -10,11 +10,18 @@ UID的格式为 xxx-xxxx-xxxx-xxxx-xxx
 
 结构说明
 国家（Country）: 3个字符，用数字表示，国家代码参考 "UniqueID-Guidelines/country-codes"。
+
 学校（School）: 4个字符，用数字表示，并结合国家代码中的唯一学校编号，参考 "UniqueID-Guidelines/school-codes"。
+
 年份（Year）: 4个字符，使用标准的四位数年份，如2023。
+
 专业（Subject）: 4个字符，用数字或字母表示。可以为每个专业分配一个独特的编号或缩写。
+
 课程（Course）: 3个字符，用数字或字母表示，可用于标识具体课程。
+
+
 示例
+
 假设一个课程是2023年由美国的哈佛大学提供的一门计算机科学专业的课程，可以这样表示：
 
 国家（美国）: 001
