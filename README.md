@@ -42,7 +42,7 @@ A unique identifier (UID) for an online course is a distinct code assigned to ea
 
 ### 参考文件
 
-- [country-codes.csv](country-codes.csv)
-- [school-codes.csv](school-codes.csv)
-- [subject-codes.csv](subject-codes.csv)
-- [course-codes.csv](course-codes.csv)
+- [country-codes.csv](UniqueID-Guidelines/country-codes.csv)
+- [school-codes.csv](UniqueID-Guidelines/school-codes.csv)
+- [subject-codes.csv](UniqueID-Guidelines/subject-codes.csv)
+- [course-codes.csv](UniqueID-Guidelines/course-codes.csv)
